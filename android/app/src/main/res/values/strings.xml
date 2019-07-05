@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">SportApp</string>
+
+    <string name="facebook_app_id">345149559461915</string>
+
+    <string name="fb_login_protocol_scheme">fb345149559461915</string>
+</resources>
